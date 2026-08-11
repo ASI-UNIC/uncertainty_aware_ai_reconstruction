@@ -3,3 +3,4 @@ lightning_logs
 *.tex
 .DS_Store
 .vscode
+data/
