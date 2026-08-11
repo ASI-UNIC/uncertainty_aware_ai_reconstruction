@@ -1,0 +1,5 @@
+*.wav
+lightning_logs
+*.tex
+.DS_Store
+.vscode
